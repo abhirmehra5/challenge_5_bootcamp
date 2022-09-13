@@ -1,3 +1,3 @@
-# challenge_5_bootcamp
+# Challenge 5 Bootcamp
 
-monte-carlo simulations
+Monte Carlo simulations
